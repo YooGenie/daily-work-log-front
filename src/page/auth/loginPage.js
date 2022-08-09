@@ -40,7 +40,6 @@ const Login = () => {
                 >
                     <Input />
                 </Form.Item>
-
                 <Form.Item
                     label="Password"
                     name="password"
